@@ -144,7 +144,7 @@
 	},
 	morecomment=[l]--
 }
-\colorlet{STD}{Lavender}
+\colorlet{STD}{gray}
 
 \lstset{
 	language=VHDL,
@@ -162,14 +162,14 @@
 	classoffset=0,
     morecomment=[s][\textit]{my_lab}{el}, % make the label word italics
 	otherkeywords={<=,:=, shared,=>,'}, % add <=, shared
-	keywordstyle=\color{blue},
+	keywordstyle=\color{gray},
    	keywordstyle = [2]\color{STD}\bfseries,
-	commentstyle=\color[RGB]{10,140,20}, % green color
+	commentstyle=\color{gray}, % green color
 	frame=b, % turn on end line
 	rulecolor=\color{dark-gray}, % end line color
 	%captionpos=b, 
 	belowcaptionskip=2pt,  
-        stringstyle=\color{red}\ttfamily,
+        stringstyle=\color{gray}\ttfamily,
 	morestring=[b]',
        	showspaces=false,
         showtabs=false,
@@ -268,4 +268,3 @@ linkcolor=black,        % internal links
 citecolor=green,        % links to bibliography
 filecolor=magenta,      % file links
 urlcolor=darkgray}      % external links
-
