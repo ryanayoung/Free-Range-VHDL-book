@@ -1,3 +1,6 @@
+This version has had the style.sty modified so that the example vhdl is in monochrome.  This makes it about $30 to print at fedex.
+-RyanY
+
 Latex source files of the open-source VHDL book FREE RANGE VHDL. 
 
 If you want to download the PDF or to know more about this book have a look at the [freerangefactory website](http://freerangefactory.org). If you want to buy the Free Range VHDL Paperback you can do that from [amazon.com](https://www.amazon.com/no-frills-writing-powerful-digital-implementations/dp/B015MT2IBM/ref=sr_1_1).
